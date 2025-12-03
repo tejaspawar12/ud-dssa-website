@@ -4,7 +4,7 @@
 
 import { MemberPortfolio } from '@/types/member';
 
-export const yourName: MemberPortfolio = {
+export const tejaspawar: MemberPortfolio = {
   id: 'tejaspawar', // e.g., 'john-doe' - used in URL: /members/your-username
   role: 'member', // 'officer' | 'member' | 'alumni'
   position: undefined, // Only for officers: 'Technical Lead', 'President', etc.
